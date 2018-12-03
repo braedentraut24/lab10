@@ -1,0 +1,103 @@
+Script started on Mon 03 Dec 2018 06:24:09 PM UTC
+]0;braedentrautz@penguin: ~/lab10[01;32mbraedentrautz@penguin[00m:[01;34m~/lab10[00m$ n[Kcc lab10.c
+]0;braedentrautz@penguin: ~/lab10[01;32mbraedentrautz@penguin[00m:[01;34m~/lab10[00m$ ./a.out
+[1m[31mThis program written by Braeden Trautz and compiled on Dec  3 2018
+
+OMR Data Miner
+This program will allow you to mine data from the data.csv spreadsheet[0m
+
+	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+1
+Enter the ID you would like to search for
+320
+No student data found for id 320
+	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+2 1
+Enter the ID you would like to search for
+0
+[1m[31mID: 00000
+Name: Answer Key
+Choices: addabbcadad
+[0m	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+1
+Enter the ID you would like to search for
+90860
+[1m[31mID: 90860
+Name: Leyla Sosa
+Choices: bddbdacbbba
+[0m	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+2
+Enter any part of the student's name, 
+you will be shown all names with a match
+sam
+[1m[31mID: 45573
+Name: Sammy Pierce
+Choices: badbdccbddd
+[0m[1m[31mID: 68346
+Name: Sam Norris
+Choices: bbcdcbadadb
+[0m	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+2
+Enter any part of the student's name, 
+you will be shown all names with a match
+superman
+	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+3
+Stub3!
+	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+4
+Stub4!
+	Enter the value of one of the below choices.
+[1m[37m	Bubble Sheet Mining Menu 
+[0m	1. Search via specific ID 
+	2. Search via any name 
+	3. Search via ID's within a range 
+	4. Search via last name only 
+	5. End the program 
+5
+Goodbye!
+]0;braedentrautz@penguin: ~/lab10[01;32mbraedentrautz@penguin[00m:[01;34m~/lab10[00m$ exit
+
+Script done on Mon 03 Dec 2018 06:25:30 PM UTC
